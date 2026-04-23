@@ -1,9 +1,7 @@
 # Research
 
-This folder contains the research outputs from EquiLens Phase 1.
+This directory contains methodology descriptions and experimental results from EquiLens research.
 
-| File | Contents |
-|------|----------|
-| `phase1_results.md` | Full results: AUC numbers, evaluations, feature importance, limitations |
-| `methodology_overview.md` | Two-stage architecture, telemetry concept, predictive maintenance framing |
-| `figures/` | Visualizations from the Phase 1 training run |
+- **[methodology_overview.md](methodology_overview.md)** — experimental design, evaluation strategies, and methodological corrections
+- **[phase1_results.md](phase1_results.md)** — complete Phase 1 results with tables and interpretation
+- **[figures/](figures/)** — architecture diagrams and result visualisations

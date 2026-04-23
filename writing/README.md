@@ -1,12 +1,6 @@
 # Writing
 
-All published writing about EquiLens, with links to the original publications.
+Published writing related to the EquiLens project.
 
-| Article | Platform | Date | Link |
-|---------|----------|------|------|
-| Before the Alerts Fire | Medium | 2026-04 | — |
-
----
-
-Articles are stored here in canonical markdown form.
-Medium and LinkedIn are distribution channels. This folder is the source of truth.
+- **[before_the_alerts_fire.md](before_the_alerts_fire.md)** — Medium article (Phase 1 announcement)
+- **[linkedin/phase1_announcement.md](linkedin/phase1_announcement.md)** — LinkedIn post
